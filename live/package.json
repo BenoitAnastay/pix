@@ -30,7 +30,7 @@
     "deploy:production": "./scripts/deploy.sh production"
   },
   "devDependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "broccoli-asset-rev": "^2.6.0",
     "chai-dom": "^1.7.0",
     "codeclimate-test-reporter": "^0.5.0",
